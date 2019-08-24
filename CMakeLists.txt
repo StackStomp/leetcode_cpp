@@ -3,4 +3,4 @@ project(leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(leetcode main.cpp binary_tree_inorder_traversal.cpp)
+add_executable(leetcode main.cpp tuning.cpp)
